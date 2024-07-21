@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("boxicons/css/boxicons.min.css");
+.menu .app-brand.demo {
+    height: 64px;
+    margin-top: 12px;
+}
